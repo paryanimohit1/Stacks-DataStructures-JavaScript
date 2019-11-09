@@ -1,2 +1,9 @@
 # Stacks-DataStructures-JavaScript
-Stacks implemented in Javascript.  Following are the functions available:  stack_Push  stack_Pop  stack_Peek  stack_IsEmpty  stack_Search  printStack
+Stacks implemented in Javascript.  
+Following are the functions available:  
+1. stack_Push  
+2. stack_Pop  
+3. stack_Peek  
+4. stack_IsEmpty  
+5. stack_Search  
+6. printStack
